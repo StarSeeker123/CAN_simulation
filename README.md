@@ -9,5 +9,4 @@ The Controller Area Network (CAN) protocol is a method  method of communication 
 4. Accelerometers.
 5. Rollover sensors
 
-The software used here is from Genivi. The link to the github repository  is given below.
-https://github.com/GENIVI/CANdevStudio
+The vehicle network toolbox from MATLAB Simulink is used for the above simulation
